@@ -6,6 +6,7 @@ public class Pseudocode {
     private static double item2 = 10.00;
     private static double cost = 0;
 
+    // prints the total cost of splitting a bill
     public static void main(String[] args) {
         double tax1 = item1 * 0.08;
         double tip1 = item1 * 0.18;
