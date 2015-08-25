@@ -35,6 +35,11 @@ public class Picture
     private double yGrow;
 
     public static void main(String[] args) {
+        // creates newPic Picture object
+        // can select a new picture from your file
+        // translates newPic object 100 x 100
+        // increases its size 50 x 50
+        // then draws it to the canvas
         Picture newPic = new Picture();
         newPic.pick();
         newPic.translate(100, 100);
