@@ -29,9 +29,9 @@ public class Day
         System.out.println(day.toString());
 
         // How many days was did Sally Ride live?
-        Day birthDay = new Day(1951, 5, 26);
-        Day lastDay = new Day(2012, 7, 23);
-        System.out.println(lastDay.daysFrom(birthDay));
+        Day birthDay = new Day(1951, 5, 26); // sally's birthday
+        Day lastDay = new Day(2012, 7, 23); // day she died
+        System.out.println(lastDay.daysFrom(birthDay)); // total days she lived
 
     }
 
