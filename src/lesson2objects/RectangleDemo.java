@@ -10,7 +10,7 @@ public class RectangleDemo
 //        box.draw();
 //        box2.draw();
 
-        // Is translate() an accessor or mutator method
+        // Is translate() an accessor or mutator
         // It's a mutator
         Rectangle box = new Rectangle(5, 10, 60, 90);
         System.out.println(box.getX());
