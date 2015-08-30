@@ -4,21 +4,20 @@ public class Car
 {
     private double milesDriven;
     private double gasInTank;
-    private Picture pic;
+    private double milesPerGallon;
 
-    public Car() // Discussed later
+    public Car()
     {
         milesDriven = 0;
         gasInTank = 0;
-        pic = new Picture("car.jpg");
-        pic.draw();
+        milesPerGallon = 50;
     }
 
     public void drive(double distance)
     {
         milesDriven = milesDriven + distance;
-        int pixelsPerMile = 10;
-        pic.translate(distance * pixelsPerMile, 0);
+        double gasConsumed = distance / milesPerGallon;
+        gasInTank = gasInTank - gasConsumed;
     }
 
     public void addGas(double amount)
@@ -26,6 +25,14 @@ public class Car
         gasInTank = gasInTank + amount;
     }
 
-    // More methods ...
+    public double getMilesDriven()
+    {
+        return milesDriven;
+    }
 
+    public double getGasInTank()
+    {
+        return gasInTank;
+    }
 }
+
