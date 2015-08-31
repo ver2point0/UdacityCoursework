@@ -1,10 +1,11 @@
 package lesson3classes;
 
-// BlueJ project: lesson3/friends3
 public class Person
 {
     private String name;
     private String friends;
+    private int x;
+    private int y;
 
     public Person (String aName, String pictureName, int xCoord, int yCoord)
     {
@@ -13,6 +14,8 @@ public class Person
         Picture picture = new Picture(pictureName);
         picture.translate(xCoord, yCoord);
         picture.draw();
+        x = xCoord;
+        y = yCoord;
     }
 
     // This function return the friends of this Person object
@@ -26,6 +29,10 @@ public class Person
     public void addFriend(Person friend)
     {
         friends = friends + " " + friend.name;
+        SmallCircle circle = new SmallCircle(x, y);
+        circle.fill();
+        Line line = new Line(x, y, friend.x, friend.y);
+        line.draw();
     }
 
     public void unFriend(Person nonFriend)
