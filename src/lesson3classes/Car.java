@@ -22,8 +22,10 @@ public class Car
     }
 
 
-    // Your turn
-
+     /**
+      Adds gas to the car's gas tank.
+      @param amount the amount of gas to add
+      */
     public void addGas(double amount)
     {
         gasInTank = gasInTank + amount;
