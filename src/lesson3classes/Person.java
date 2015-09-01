@@ -22,6 +22,15 @@ public class Person
         picture.draw();
     }
 
+    public void makeMutualFriend(Person friend) {
+        addFriend(friend);
+        friend.addFriend(friend);
+    }
+
+    public void mutualUnfriend(Person nonFriend) {
+        unFriend(nonFriend);
+        nonFriend.unFriend(nonFriend);
+    }
     public void addFriend(Person friend)
     {
         friends = friends + friend.name + " ";
