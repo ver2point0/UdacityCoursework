@@ -1,5 +1,9 @@
 package lesson3classes;
 
+/**
+ * Models a person who makes and unmakes friends
+ *
+ */
 public class Person
 {
     private String name;
@@ -7,28 +11,20 @@ public class Person
     private int x;
     private int y;
 
-    public Person (String aName, String pictureName, int xCoord, int yCoord)
+    public Person (String name, String pictureName, int x, int y)
     {
-        name = aName;
+        this.name = name;
         friends = "";
         Picture picture = new Picture(pictureName);
-        picture.translate(xCoord, yCoord);
+        this.x = x;
+        this.y = y;
+        picture.translate(x, y);
         picture.draw();
-        x = xCoord;
-        y = yCoord;
-    }
-
-    // This function return the friends of this Person object
-    // the function should return a String that contains all
-    // the names of the friends of this Person object.
-    public String getFriends()
-    {
-        return friends;
     }
 
     public void addFriend(Person friend)
     {
-        friends = friends + " " + friend.name;
+        friends = friends + friend.name + " ";
         SmallCircle circle = new SmallCircle(x, y);
         circle.fill();
         Line line = new Line(x, y, friend.x, friend.y);
@@ -37,7 +33,14 @@ public class Person
 
     public void unFriend(Person nonFriend)
     {
-        friends = friends.replace(" " + nonFriend.name, "");
+        friends = friends.replace(nonFriend.name + " ", "");
     }
+
+    public String getFriends()
+    {
+        return friends;
+    }
+
 }
+
 
