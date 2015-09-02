@@ -22,7 +22,5 @@ public class OverFlow {
         double unitPrice = 4.35;
         double totalPrice = 100 * unitPrice;
         System.out.println(totalPrice);
-
-
     }
 }
