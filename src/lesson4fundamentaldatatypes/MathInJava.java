@@ -31,9 +31,9 @@ public class MathInJava
      @param c the third value
      @param d the average of a, b, c, and d
      */
-    public double average(int a, int b, int c, int d)
+    public double average(double a, double b, double c, double d)
     {
-        return ((a + b + c + d) / 4);
+        return ((a + b + c + d) / 4.0);
     }
 }
 
