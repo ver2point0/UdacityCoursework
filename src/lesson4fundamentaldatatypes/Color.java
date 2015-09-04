@@ -11,8 +11,11 @@ public class Color
      */
     public void reduce()
     {
-        // TODO: Change the values for red, green, and blue
+        // Change the values for red, green, and blue
         // to one of the following: 0, 51, 102, 153, 204, 255
+        red =  (red * 6 / 256) * 51;
+        green = (green * 6 / 256) * 51;
+        blue = (blue * 6 / 256) * 51;
     }
 
     /**
