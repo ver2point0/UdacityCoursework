@@ -10,7 +10,7 @@ public class MathInJava
     */
     public double uglyFraction(double x, double y)
     {
-        // To do!
+        return y / (x * (1 + x));
     }
 
     /*
@@ -21,7 +21,7 @@ public class MathInJava
     */
     public double uglierFraction(double x)
     {
-        // To do!
+        return (2 + x * (3 * x - 4)) / ((x + 2) * x);
     }
 
     /**
@@ -33,7 +33,7 @@ public class MathInJava
      */
     public double average(int a, int b, int c, int d)
     {
-        // To do!
+        return ((a + b + c + d) / 4);
     }
 }
 
