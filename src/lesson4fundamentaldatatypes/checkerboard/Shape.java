@@ -38,4 +38,3 @@ public interface Shape
      */
     void paintShape(Graphics2D g2);
 }
-

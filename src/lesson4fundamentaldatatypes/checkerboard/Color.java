@@ -1,5 +1,4 @@
 package lesson4fundamentaldatatypes.checkerboard;
-
 //HIDE
 public class Color
 {
@@ -63,4 +62,3 @@ public class Color
         return blue;
     }
 }
-

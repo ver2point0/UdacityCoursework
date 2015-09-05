@@ -15,4 +15,3 @@ public class CheckerBoardPainterTester
         System.out.println("Expected: 0");
     }
 }
-
