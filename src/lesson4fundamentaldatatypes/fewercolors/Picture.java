@@ -1,7 +1,8 @@
-package lesson4fundamentaldatatypes;
+package lesson4fundamentaldatatypes.fewercolors;
 
 //HIDE
 //OUT canvas.png
+
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;

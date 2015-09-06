@@ -11,7 +11,6 @@ public class Color
      */
     public void turnGray()
     {
-        // TODO: Change this color to its equivalent gray value.
         // The red, green, and blue variables should all be
         // set to the gray level, which is computed as a weighted
         // average of the original red, blue, and green levels.
@@ -20,8 +19,10 @@ public class Color
         // red - 0.2126
         // green - 0.7152
         // blue - 0.0722
-
-
+        int gray = (int)((0.2126 * red) + (0.7152 * green) + (0.0722 * blue));
+        red = gray;
+        green = gray;
+        blue = gray;
     }
 
     /**

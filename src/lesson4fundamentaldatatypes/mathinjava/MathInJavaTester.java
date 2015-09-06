@@ -1,4 +1,6 @@
-package lesson4fundamentaldatatypes;
+package lesson4fundamentaldatatypes.mathinjava;
+
+import lesson4fundamentaldatatypes.mathinjava.MathInJava;
 
 public class MathInJavaTester
 {

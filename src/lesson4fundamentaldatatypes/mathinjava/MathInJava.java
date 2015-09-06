@@ -1,4 +1,4 @@
-package lesson4fundamentaldatatypes;
+package lesson4fundamentaldatatypes.mathinjava;
 
 public class MathInJava
 {

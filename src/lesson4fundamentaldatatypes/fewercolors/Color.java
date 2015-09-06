@@ -1,4 +1,4 @@
-package lesson4fundamentaldatatypes;
+package lesson4fundamentaldatatypes.fewercolors;
 
 public class Color
 {
