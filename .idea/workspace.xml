@@ -4,16 +4,18 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="use grayscale success&#10;&#10;turned a color picture into grayscale by">
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\Color.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/Color.java" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\FewerColors.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/FewerColors.java" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\MathInJava.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/mathinjava/MathInJava.java" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\MathInJavaTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/mathinjava/MathInJavaTester.java" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\Picture.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/Picture.java" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\eliza.jpg" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/eliza.jpg" />
-      <change type="MOVED" beforePath="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\queen-mary.png" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/queen-mary.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/Color.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/Color.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/GrayScale.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/GrayScale.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values">
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\FewerColors.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\MathInJava.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\MathInJavaTester.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas$CanvasComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\eliza.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\queen-mary.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -40,8 +42,8 @@
       <file leaf-file-name="Color.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/Color.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12208258">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.7369942">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="e#1291#1292#0" expanded="true" />
                 <element signature="e#1317#1318#0" expanded="true" />
@@ -552,12 +554,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00005" summary="showing how print and println work">
-      <created>1439962860805</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1439962860805</updated>
-    </task>
     <task id="LOCAL-00006" summary="changed encodings">
       <created>1439963718060</created>
       <option name="number" value="00006" />
@@ -846,12 +842,18 @@
       <option name="project" value="LOCAL" />
       <updated>1441504154026</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values">
+      <created>1441505171647</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1441505171647</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="768" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -860,7 +862,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36102235" sideWeight="0.5121029" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36068377" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36068377" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36923078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -891,7 +893,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="replace() method is a mutator" />
     <MESSAGE value="translate() method is a mutator" />
     <MESSAGE value="translate() method is a mutator&#10;* typo correction to replace() method: it is an accessor" />
     <MESSAGE value="drew a 3D box" />
@@ -916,7 +917,8 @@
     <MESSAGE value="paint checkerboard success" />
     <MESSAGE value="workspace update" />
     <MESSAGE value="use grayscale" />
-    <option name="LAST_COMMIT_MESSAGE" value="use grayscale" />
+    <MESSAGE value="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values" />
+    <option name="LAST_COMMIT_MESSAGE" value="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1309,8 +1311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12208258">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.7369942">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
             <element signature="e#1291#1292#0" expanded="true" />
             <element signature="e#1317#1318#0" expanded="true" />
