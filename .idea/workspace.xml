@@ -4,18 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values">
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Color.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\FewerColors.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\MathInJava.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\MathInJavaTester.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas$CanvasComponent.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture$Canvas.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\Picture.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\eliza.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PtJ\UdacityCoursework\out\production\UdacityCoursework\lesson4fundamentaldatatypes\queen-mary.png" afterPath="" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -554,12 +543,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00006" summary="changed encodings">
-      <created>1439963718060</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1439963718060</updated>
-    </task>
     <task id="LOCAL-00007" summary="finding errors">
       <created>1440104283397</created>
       <option name="number" value="00007" />
@@ -848,7 +831,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441505171647</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="use grayscale success&#10;&#10;turned a color picture into grayscale by converting red, green, and blue into their grayscale values">
+      <created>1441505331165</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1441505331166</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
