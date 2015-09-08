@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -32,8 +32,8 @@
       <file leaf-file-name="Tiles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4578097">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48833033">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -550,12 +550,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00011" summary="algorithms">
-      <created>1440201149009</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1440201149009</updated>
-    </task>
     <task id="LOCAL-00012" summary="algorithms">
       <created>1440201212847</created>
       <option name="number" value="00012" />
@@ -844,7 +838,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441737420670</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="write out problems by hand, then code them in an editor">
+      <created>1441738346478</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1441738346478</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -889,7 +889,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="implementing classes" />
     <MESSAGE value="getting actual and expected gas levels" />
     <MESSAGE value="created Person class" />
     <MESSAGE value="drew friends to a canvas&#10;" />
@@ -914,7 +913,8 @@
     <MESSAGE value="update workspace" />
     <MESSAGE value="get userinput" />
     <MESSAGE value="format output" />
-    <option name="LAST_COMMIT_MESSAGE" value="format output" />
+    <MESSAGE value="write out problems by hand, then code them in an editor" />
+    <option name="LAST_COMMIT_MESSAGE" value="write out problems by hand, then code them in an editor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1320,8 +1320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4578097">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48833033">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding />
         </state>
       </provider>

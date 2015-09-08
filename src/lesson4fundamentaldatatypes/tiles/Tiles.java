@@ -14,7 +14,7 @@ public class Tiles
         System.out.print("Tile size: ");
         double tileSize = in.nextDouble();
 
-        // TODO: Complete these computations
+        // Complete these computations
         int pairs = (int)((width - tileSize) / (2 * tileSize));
         int redTiles = pairs;
         int whiteTiles = pairs + 1;
