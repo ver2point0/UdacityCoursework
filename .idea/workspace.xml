@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="Tiles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48833033">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.27468583">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -274,27 +273,7 @@
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MicroKitchenTable">
-    <configuration default="false" name="WhatDayWillItBe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson4fundamentaldatatypes.dayoftheweek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.dayoftheweek.WhatDayWillItBe" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Tiles">
     <configuration default="false" name="GrayScale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -363,6 +342,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.formattedOutput.MicroKitchenTable" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson4fundamentaldatatypes.tiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.tiles.Tiles" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -523,19 +522,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WhatDayWillItBe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GrayScale" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Sunset" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Sunset (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MicroKitchenTable" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GrayScale" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Sunset" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Sunset (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MicroKitchenTable" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Tiles" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MicroKitchenTable" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Sunset (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Sunset" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GrayScale" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WhatDayWillItBe" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Tiles" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MicroKitchenTable" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Sunset (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Sunset" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GrayScale" />
       </list>
     </recent_temporary>
   </component>
@@ -549,12 +548,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00012" summary="algorithms">
-      <created>1440201212847</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1440201212847</updated>
     </task>
     <task id="LOCAL-00013" summary="algorithms - buy the sedan">
       <created>1440203006854</created>
@@ -844,7 +837,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441738346478</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="write out problems by hand, then code them in an editor">
+      <created>1441738407182</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1441738407182</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1320,8 +1319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48833033">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.27468583">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
