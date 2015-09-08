@@ -1,23 +1,23 @@
-package lesson4fundamentaldatatypes.sunsetinput;// BlueJ project: lesson4/sunsetInput
-// Video: Color Your Own Sunset Effect
+package lesson4fundamentaldatatypes.sunsetinput;
 
-// TODO: Add import statement
+import java.util.Scanner;
 
 public class Sunset
 {
     public static void main(String[] args)
     {
         Picture pic = new Picture();
-        pic.load("queen-mary.png");
+        pic.load("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson4fundamentaldatatypes\\sunsetinput\\queen-mary.png");
+        Scanner addRedInput = new Scanner(System.in);
 
         System.out.print("Added redness: ");
-        // TODO: Read added redness from scanner
+        int userInput = addRedInput.nextInt();
 
         pic.draw();
         for (int i = 0; i < pic.pixels(); i++)
         {
             Color c = pic.getColorAt(i);
-            c.redden(); // TODO: Pass added redness to method
+            c.redden(userInput);
             pic.setColorAt(i, c);
         }
     }

@@ -9,12 +9,12 @@ public class Color
 
     /**
      * Makes this color redder.
+     * @param addRed the added amount of redness
      */
-    public void redden() // TODO: Add a parameter
+    public void redden(int addRed)
     {
-        final int ADDED_RED = 25; // TODO: Remove
         final int MAX_RED = 255;
-        red = Math.min(MAX_RED, red + ADDED_RED);
+        red = Math.max(0, Math.min(MAX_RED, red + addRed)); // no negative pixels
     }
 
     /**
