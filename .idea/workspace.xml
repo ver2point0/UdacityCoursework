@@ -557,12 +557,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00005" summary="showing how print and println work">
-      <created>1439962860805</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1439962860805</updated>
-    </task>
     <task id="LOCAL-00006" summary="changed encodings">
       <created>1439963718060</created>
       <option name="number" value="00006" />
@@ -851,7 +845,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441839999034</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
+      <created>1441840033617</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1441840033617</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
