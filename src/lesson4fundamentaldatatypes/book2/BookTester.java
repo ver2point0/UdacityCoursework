@@ -8,7 +8,7 @@ public class BookTester
         Book alice = new Book("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson4fundamentaldatatypes\\book2\\aliceInWonderland.txt");
 
         System.out.println(alice.firstOccurrenceOfMadHatter());
-        System.out.println("Expected: -1");
+        System.out.println("Expected: -1"); // returns -1 if no results, called "The Hatter" in the book
 
         Book code = new Book("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson4fundamentaldatatypes\\book2\\BookTester.java");
         System.out.println(code.firstOccurrenceOfMadHatter());

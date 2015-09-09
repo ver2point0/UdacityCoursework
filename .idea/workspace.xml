@@ -4,14 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="work with book text">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/aliceInWonderland.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/tiles/Tiles.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/tiles/Tiles.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="search for Mad Hatter">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -50,8 +44,8 @@
       <file leaf-file-name="BookTester.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42728904">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.08528428">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -132,8 +126,8 @@
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java" />
-        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/Book.java" />
+        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" />
       </list>
     </option>
   </component>
@@ -148,9 +142,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -545,12 +540,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00010" summary="compile or run-time error 2">
-      <created>1440117339551</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1440117339551</updated>
-    </task>
     <task id="LOCAL-00011" summary="algorithms">
       <created>1440201149009</created>
       <option name="number" value="00011" />
@@ -839,11 +828,17 @@
       <option name="project" value="LOCAL" />
       <updated>1441841587722</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="search for Mad Hatter">
+      <created>1441842760115</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1441842760115</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="768" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -884,7 +879,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="translate() method is a mutator&#10;* typo correction to replace() method: it is an accessor" />
     <MESSAGE value="drew a 3D box" />
     <MESSAGE value="wrote text on my 3D box" />
     <MESSAGE value="implementing classes" />
@@ -909,7 +903,8 @@
     <MESSAGE value="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
     <MESSAGE value="change encoding&#10;" />
     <MESSAGE value="work with book text" />
-    <option name="LAST_COMMIT_MESSAGE" value="work with book text" />
+    <MESSAGE value="search for Mad Hatter" />
+    <option name="LAST_COMMIT_MESSAGE" value="search for Mad Hatter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1257,8 +1252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42728904">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.08528428">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
