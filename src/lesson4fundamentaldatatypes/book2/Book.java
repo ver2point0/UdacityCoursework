@@ -1,4 +1,4 @@
-package lesson4fundamentaldatatypes.book1;
+package lesson4fundamentaldatatypes.book2;
 
 import java.util.Scanner;
 import java.io.File;
@@ -19,9 +19,20 @@ public class Book
      */
     public int getNumCharacters()
     {
-        // You will want to use the fact sheet linked in the instructor comments.
-        // Which string method do you want to use?
         return bookText.length();
+    }
+
+    /**
+       Finds where the string "Mad Hatter" occurs for the first time in the book.
+       @return the location of the first occurrence of the string
+    */
+    public int firstOccurrenceOfMadHatter()
+    {
+        // Complete this method
+        //
+        // Check the fact sheet. There is a String function
+        // that can do this for you.
+        return bookText.indexOf("Mad Hatter");
     }
 
     /**

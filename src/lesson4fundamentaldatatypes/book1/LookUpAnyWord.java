@@ -12,8 +12,8 @@ public class LookUpAnyWord
         String word = in.next();
         System.out.println();
         
-        Book aliceInWonderland = new Book("aliceInWonderland.txt");
-        int occurrences = aliceInWonderland.occurrencesOf(word);
-        System.out.println(word + " occurrs " + occurrences + " times!");
+        Book aliceInWonderland = new Book("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson4fundamentaldatatypes\\book1\\aliceInWonderland.txt");
+        //int occurrences = aliceInWonderland.occurrencesOf(word);
+        //System.out.println(word + " occurs " + occurrences + " times!");
     }
 }
