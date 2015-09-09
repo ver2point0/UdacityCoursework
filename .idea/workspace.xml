@@ -4,20 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="paint checkerboard success">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/formattedOutput/MicroKitchenTable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Picture$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Picture$Canvas$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Picture$Canvas$CanvasComponent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Picture$Canvas.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Picture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Sunset.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/tiles/Tiles.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/eliza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/queen-mary.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="paint checkerboard success" />
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
     <ignored path="UdacityCoursework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,6 +160,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,8 +214,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -832,10 +819,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3514377" sideWeight="0.5121029" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3514377" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3508772" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22390318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22390318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -908,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.087855294">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
