@@ -4,7 +4,12 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="change encoding&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/mary.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -28,11 +33,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tiles.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7324955">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookTester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LookUpAnyWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -64,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson1introduction/Errors.java" />
-        <option value="$PROJECT_DIR$/src/lesson1introduction/CompileOrRunTime.java" />
         <option value="$PROJECT_DIR$/src/lesson1introduction/CompileOrRunTime2.java" />
         <option value="$PROJECT_DIR$/src/lesson1introduction/Algorithms.java" />
         <option value="$PROJECT_DIR$/src/lesson1introduction/Pseudocode.java" />
@@ -115,6 +140,8 @@
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/Shape.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/dayoftheweek/WhatDayWillitBe.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/tiles/Tiles.java" />
+        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
+        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java" />
       </list>
     </option>
   </component>
@@ -129,9 +156,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -224,28 +252,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson4fundamentaldatatypes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UdacityCoursework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UdacityCoursework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -262,6 +268,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book1" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\checkerboard" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson3classes" />
@@ -546,18 +553,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00007" summary="finding errors">
-      <created>1440104283397</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1440104283397</updated>
-    </task>
-    <task id="LOCAL-00008" summary="compile or run-time error 1">
-      <created>1440104634844</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1440104634844</updated>
-    </task>
     <task id="LOCAL-00009" summary="compile or run-time error 2">
       <created>1440104850837</created>
       <option name="number" value="00009" />
@@ -840,11 +835,23 @@
       <option name="project" value="LOCAL" />
       <updated>1441840070790</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="change encoding&#10;">
+      <created>1441841140405</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1441841140406</updated>
+    </task>
+    <task id="LOCAL-00057" summary="change encoding&#10;">
+      <created>1441841220342</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1441841220342</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="768" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -885,7 +892,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="replace() method is a mutator" />
     <MESSAGE value="translate() method is a mutator" />
     <MESSAGE value="translate() method is a mutator&#10;* typo correction to replace() method: it is an accessor" />
     <MESSAGE value="drew a 3D box" />
@@ -910,7 +916,8 @@
     <MESSAGE value="paint checkerboard success" />
     <MESSAGE value="update workspace" />
     <MESSAGE value="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
+    <MESSAGE value="change encoding&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="change encoding&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1199,6 +1206,32 @@
         <state vertical-scroll-proportion="0.7324955">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
