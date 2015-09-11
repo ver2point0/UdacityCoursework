@@ -1,4 +1,4 @@
-package lesson4fundamentaldatatypes.book6;
+package lesson4fundamentaldatatypes.book7;
 
 import java.util.Scanner;
 import java.io.File;
@@ -19,10 +19,9 @@ public class Book
     */
     public int occurrencesOf(String word)
     {
-        // Complete this method
         int length = bookText.length();
-        int lengthWithoutWord = bookText.replace(word, "").length();
-        return (length - lengthWithoutWord) / word.length();
+        int lengthWithoutAlice = bookText.replace(word, "").length();
+        return (length - lengthWithoutAlice) / word.length();
     }
 
     /**
@@ -35,7 +34,6 @@ public class Book
         int lengthWithoutAlice = bookText.replace("Alice", "").length();
         return (length - lengthWithoutAlice) / 5;
     }
-
 
     /**
        Gets the first sentence of this book.
@@ -53,10 +51,6 @@ public class Book
     */
     public String getSecondSentence()
     {
-        // Get the second sentence
-        // Locate the period of the first sentence
-        // Return the substring consisting of everything after that period up to
-        // the second period
         int beginningOfSentence = bookText.indexOf(".") + 1;
         int endOfSentence = bookText.indexOf(".", beginningOfSentence);
         return bookText.substring(beginningOfSentence, endOfSentence + 1);
