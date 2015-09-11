@@ -1,4 +1,4 @@
-package lesson4fundamentaldatatypes.block5;
+package lesson4fundamentaldatatypes.book5;
 
 public class BookTester
 {
