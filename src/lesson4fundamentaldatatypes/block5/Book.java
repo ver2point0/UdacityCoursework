@@ -1,4 +1,5 @@
-package lesson4fundamentaldatatypes.book4;
+package lesson4fundamentaldatatypes.block5;// BlueJ Project: lesson4/book5
+// Video: Working with the Book Text
 
 import java.util.Scanner;
 import java.io.File;
@@ -10,6 +11,16 @@ public class Book
     public Book(String fileName)
     {
         readBook(fileName);
+    }
+
+    /**
+        Counts how many times "Alice" occurs in this book.
+        @return the number of occurrences
+    */
+    public int occurrencesOfAlice()
+    {
+        // Find the number of times the word "Alice" occurs in this book
+        return bookText.indexOf("Alice".length());
     }
 
     /**
@@ -32,9 +43,9 @@ public class Book
         // Locate the period of the first sentence
         // Return the substring consisting of everything after that period up to
         // the second period
-       int beginningOfSentence = bookText.indexOf(".") + 1;
-       int endOfSentence = bookText.indexOf(".", beginningOfSentence);
-       return bookText.substring(beginningOfSentence, endOfSentence + 1);
+        int beginningOfSentence = bookText.indexOf(".") + 1;
+        int endOfSentence = bookText.indexOf(".", beginningOfSentence);
+        return bookText.substring(beginningOfSentence, endOfSentence + 1);
     }
 
     /**

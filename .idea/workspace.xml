@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/chapter1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/BookTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/mary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c0b89cd-b3f9-4447-b13e-b7912b6ce656" name="Failed commit: Default" comment="paint checkerboard" />
@@ -32,21 +33,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java">
+      <file leaf-file-name="BookTester.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/BookTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21005386">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.3478261">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/Book.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -78,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson2objects/Day.java" />
-        <option value="$PROJECT_DIR$/src/lesson2objects/Canvas.java" />
         <option value="$PROJECT_DIR$/src/lesson2objects/Shape.java" />
         <option value="$PROJECT_DIR$/src/lesson2objects/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/lesson2objects/Line.java" />
@@ -129,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book3/Book.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java" />
+        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/Book.java" />
+        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/BookTester.java" />
       </list>
     </option>
   </component>
@@ -143,9 +144,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="754" />
-    <option name="width" value="612" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -241,7 +243,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="book4" />
+              <option name="myItemId" value="block5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,37 +278,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\block5" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book4" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book3" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book2" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book1" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\checkerboard" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookTester (3)">
-    <configuration default="false" name="Tiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson4fundamentaldatatypes.tiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.tiles.Tiles" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BookTester (4)">
     <configuration default="false" name="BookTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -375,6 +357,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.book4.BookTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BookTester (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson4fundamentaldatatypes.block5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson4fundamentaldatatypes.block5.BookTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -535,19 +537,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Tiles" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BookTester" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BookTester (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BookTester (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BookTester (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BookTester" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BookTester (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BookTester (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BookTester (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BookTester (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BookTester (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BookTester (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BookTester (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BookTester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Tiles" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BookTester (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BookTester (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BookTester (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BookTester (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BookTester" />
       </list>
     </recent_temporary>
   </component>
@@ -561,12 +563,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00012" summary="algorithms">
-      <created>1440201212847</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1440201212847</updated>
     </task>
     <task id="LOCAL-00013" summary="algorithms - buy the sedan">
       <created>1440203006854</created>
@@ -856,12 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1441939337882</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="get the second sentence">
+      <created>1441940288804</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1441940288804</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="0" width="612" height="768" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -870,11 +872,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36102235" sideWeight="0.5121029" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36752138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33067092" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3434505" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16792738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16641453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -901,7 +903,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="wrote text on my 3D box" />
     <MESSAGE value="implementing classes" />
     <MESSAGE value="getting actual and expected gas levels" />
     <MESSAGE value="created Person class" />
@@ -926,7 +927,8 @@
     <MESSAGE value="work with book text" />
     <MESSAGE value="search for Mad Hatter" />
     <MESSAGE value="get the first sentence" />
-    <option name="LAST_COMMIT_MESSAGE" value="get the first sentence" />
+    <MESSAGE value="get the second sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="get the second sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -941,27 +943,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/CheckerBoardPainter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/dayoftheweek/WhatDayWillItBe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3classes/SmallCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3classes/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1294,18 +1275,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/aliceInWonderland.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21005386">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.044386424">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="36" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17056856">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/block5/BookTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3478261">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
