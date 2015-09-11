@@ -54,7 +54,7 @@ public class Book
     */
     public String getSecondSentence()
     {
-        // TODO: Get the second sentence
+        // Get the second sentence
         // Locate the period of the first sentence
         // Return the substring consisting of everything after that period up to
         // the second period
