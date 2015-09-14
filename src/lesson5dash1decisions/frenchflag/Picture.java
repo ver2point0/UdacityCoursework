@@ -1,4 +1,4 @@
-package lesson5dash1decisions.indonesianflag;//HIDE
+package lesson5dash1decisions.frenchflag;//HIDE
 //OUT canvas.png
 import java.awt.Dimension;
 import java.awt.Graphics;

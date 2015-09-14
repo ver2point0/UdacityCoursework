@@ -1,24 +1,10 @@
-package lesson5dash1decisions.indonesianflag;
+package lesson5dash1decisions.frenchflag;
 
 public class Flag
 {
     private Picture pic;
     private int width;
     private int height;
-
-    public Color getColorAt(int x, int y)
-    {
-        Color c;
-        if (y >= height / 2)
-        {
-            c = Color.WHITE;
-        }
-        else
-        {
-            c = Color.RED;
-        }
-        return c;
-    }
 
     public Flag(int width, int height)
     {
@@ -34,5 +20,23 @@ public class Flag
                 pic.setColorAt(x, y, c);
             }
         }
+    }
+
+    public Color getColorAt(int x, int y)
+    {
+        Color c;
+        if (x < width / 3)
+        {
+            c = Color.BLUE;
+        }
+        else if (x < width * 2 / 3)
+        {
+            c = Color.WHITE;
+        }
+        else
+        {
+            c = Color.RED;
+        }
+        return c;
     }
 }

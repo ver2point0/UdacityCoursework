@@ -1,4 +1,4 @@
-package lesson5dash1decisions.indonesianflag;
+package lesson5dash1decisions.frenchflag;
 
 public class Color
 {

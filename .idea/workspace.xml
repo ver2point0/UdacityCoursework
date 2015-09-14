@@ -5,9 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Flag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Picture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book2/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book2/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/BookTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson5dash1decisions/elevator/ElevatorDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fields/FieldCalculator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fields/FieldCalculatorTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/LookUpAnyWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/LookUpAnyWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fields/Plot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fields/PlotTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Flag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Picture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book2/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/aliceInWonderland.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/chapter1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/chapter1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/mary.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -30,11 +65,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Flag.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Flag.java">
+      <file leaf-file-name="Flag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Flag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42728904">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Color.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Picture.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Picture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6827411">
+              <caret line="461" column="29" selection-start-line="461" selection-start-column="29" selection-end-line="461" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -66,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson3classes/Picture.java" />
         <option value="$PROJECT_DIR$/src/lesson3classes/Shape.java" />
         <option value="$PROJECT_DIR$/src/lesson3classes/Canvas.java" />
         <option value="$PROJECT_DIR$/src/lesson3classes/SmallCircle.java" />
@@ -117,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book7/LookUpAnyWord.java" />
         <option value="$PROJECT_DIR$/src/lesson5dash1decisions/elevator/ElevatorDemo.java" />
         <option value="$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Color.java" />
+        <option value="$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Color.java" />
       </list>
     </option>
   </component>
@@ -131,9 +186,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="768" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -211,7 +267,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="indonesianFlag" />
+              <option name="myItemId" value="indonesianflag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson5dash1decisions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frenchflag" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -264,11 +342,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash1decisions\frenchflag" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash1decisions\indonesianFlag" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash1decisions\elevator" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book7" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\book6" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson4fundamentaldatatypes\block5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
@@ -549,12 +627,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00019" summary="pictures">
-      <created>1440479325216</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1440479325216</updated>
     </task>
     <task id="LOCAL-00020" summary="manipulating pictures">
       <created>1440532514352</created>
@@ -844,29 +916,35 @@
       <option name="project" value="LOCAL" />
       <updated>1442113417837</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="color a flag">
+      <created>1442212198405</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1442212198405</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="768" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3035144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36102235" sideWeight="0.5121029" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3258786" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2953451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13918306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31282052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -889,8 +967,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="add comments to generate class Java doc&#10;&#10;I have commented my code so that I generate Java documenation&#10;for my Car class." />
-    <MESSAGE value="use the &quot;this&quot; reference in my constructor&#10;&#10;Used the &quot;this&quot; reference my instance variables name, x, and y." />
     <MESSAGE value="update Person, PersonDemo, and carTester classes&#10;&#10;added two methods to Person class, makeMutualFriend() and mutualUnfriend()&#10;&#10;updated PersonDemo class to use two new methods in Person class&#10;&#10;updated CarTester class to use Car constructor properly" />
     <MESSAGE value="create OverFlow class to test int and double data types&#10;" />
     <MESSAGE value="understand precision with an example" />
@@ -914,7 +990,9 @@
     <MESSAGE value="get occurrence of any word" />
     <MESSAGE value="update master workspace" />
     <MESSAGE value="map elevator floors" />
-    <option name="LAST_COMMIT_MESSAGE" value="map elevator floors" />
+    <MESSAGE value="color a flag" />
+    <MESSAGE value="color the French flag" />
+    <option name="LAST_COMMIT_MESSAGE" value="color the French flag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -929,27 +1007,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson3classes/Picture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25493717">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3classes/CarTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15260324">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3classes/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31270903">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3classes/PersonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14214046">
@@ -1080,6 +1137,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,7 +1324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Picture.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianflag/Picture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.95691204">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -1274,7 +1332,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Color.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianflag/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.8617594">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1282,10 +1340,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianFlag/Flag.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/indonesianflag/Flag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42728904">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.36624774">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Flag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson5dash1decisions/frenchflag/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6827411">
+          <caret line="461" column="29" selection-start-line="461" selection-start-column="29" selection-end-line="461" selection-end-column="29" />
           <folding />
         </state>
       </provider>
