@@ -8,14 +8,14 @@ public class EqualStrings
         String second = "city";
         String firstAndSecond = first + second;
         String third = "Udacity";
-        if (firstAndSecond == third)
+        // use the equals() method to test if the strings are the same
+        if (firstAndSecond.equals(third))
         {
             System.out.println("They are the same");
         }
         else
         {
-            System.out.println("firstAndSecond is "
-                               + firstAndSecond);
+            System.out.println("firstAndSecond is " + firstAndSecond);
         }
     }
 }
