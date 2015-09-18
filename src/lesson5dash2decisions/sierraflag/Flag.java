@@ -9,11 +9,15 @@ public class Flag
 
     public Color getColorAt(int x, int y)
     {
+        // Write the if/else statement to determine if a pixel should be blue or white.
         Color c;
-        if ()
-
-            // Write the if/else statement to determine if a pixel should be blue or white.
-            return c;
+        if (x >= width / 3 && x < width * 2 / 3
+                && y >= height / 3 && y < height * 2 / 3) {
+            c = Color.BLUE;
+        } else {
+            c = Color.WHITE;
+        }
+        return c;
     }
 
     public Flag(int width, int height)
@@ -30,5 +34,10 @@ public class Flag
                 pic.setColorAt(x, y, c);
             }
         }
+    }
+
+    public static void main(String[] args) {
+        Flag flag = new Flag(300, 300);
+        flag.getColorAt(0, 0);
     }
 }
