@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCardTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java" afterPath="$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -28,12 +30,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="InterestCalculator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java">
+      <file leaf-file-name="CreditCardTester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCardTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18312387">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreditCard.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7324955">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson3classes/CarTester.java" />
-        <option value="$PROJECT_DIR$/src/lesson3classes/PersonDemo.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/InchWorm.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/InchWormTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/OverFlow.java" />
@@ -115,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/lesson5dash2decisions/plurals/Word.java" />
         <option value="$PROJECT_DIR$/src/lesson5dash2decisions/elevatorwithvalidation/ElevatorDemo.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCardTester.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java" />
       </list>
     </option>
   </component>
@@ -124,6 +139,9 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -209,7 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="billionaire2" />
+              <option name="myItemId" value="creditcard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,37 +280,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash1loops\creditcard" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash1loops\billionaire2" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash2decisions\elevatorwithvalidation" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash2decisions\plurals" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash2decisions\vowels" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson5dash2decisions\exactlyonethree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterestCalculator">
-    <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson1introduction.HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CreditCardTester">
     <configuration default="false" name="DiceGameTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -361,6 +359,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson6dash1loops.billionaire2.InterestCalculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CreditCardTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson6dash1loops.creditcard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson6dash1loops.creditcard.CreditCardTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -521,19 +539,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DiceGameTester" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WordTester" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WordTester (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.InterestCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DiceGameTester" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WordTester" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WordTester (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InterestCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CreditCardTester" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.InterestCalculator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WordTester (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WordTester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DiceGameTester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CreditCardTester" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InterestCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WordTester (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WordTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DiceGameTester" />
       </list>
     </recent_temporary>
   </component>
@@ -547,12 +565,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00026" summary="String's  replace() method demo">
-      <created>1440784961807</created>
-      <option name="number" value="00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1440784961807</updated>
     </task>
     <task id="LOCAL-00027" summary="replace() method is a mutator">
       <created>1440786127103</created>
@@ -842,7 +854,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442714090404</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="change interest rate">
+      <created>1442889440819</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1442889440821</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -855,7 +873,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34017095" sideWeight="0.5120385" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36581197" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34017095" sideWeight="0.48796147" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -887,7 +905,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="turn math into Java code" />
     <MESSAGE value="input formulas bodies" />
     <MESSAGE value="color reduction" />
     <MESSAGE value="color reduction success" />
@@ -912,7 +929,8 @@
     <MESSAGE value="find one three" />
     <MESSAGE value="use booleans" />
     <MESSAGE value="get plural form of words" />
-    <option name="LAST_COMMIT_MESSAGE" value="get plural form of words" />
+    <MESSAGE value="change interest rate" />
+    <option name="LAST_COMMIT_MESSAGE" value="change interest rate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -927,20 +945,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/PaintACheckerBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9389587">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.608618">
-          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9389587">
@@ -1280,8 +1284,27 @@
     <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/billionaire2/InterestCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18312387">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCardTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7324955">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
