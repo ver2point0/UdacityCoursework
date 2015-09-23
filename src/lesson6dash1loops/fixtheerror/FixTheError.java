@@ -1,8 +1,6 @@
 package lesson6dash1loops.fixtheerror;
 
 // There is an error in this code.
-// Careful! if you run it in the Udacity IDE you will not get good debugging information
-// Try hand tracing or running in BlueJ instead.
 
 // fix this code so that it prints the year and balance every year for
 // 10 years.
@@ -18,7 +16,7 @@ public class FixTheError
             double interest = balance * rate;
             balance = balance + interest;
             System.out.printf("Year %d: %8.2f\n", year, balance);
-            year++;
+            year++; // needed to increment year to fix infinite loop
         }
     }
 }
