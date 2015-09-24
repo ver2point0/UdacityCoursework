@@ -9,12 +9,12 @@ public class Twitterizer
      */
     public String shorten(String longPost) 
     {
-        for(int i = 0; i < longPost.length(); i++) {
-            String letter = longPost.substring(i, i + 1);
-            if ("aeiouAEIOU".contains(letter)) {
-                longPost.replace(letter, "");
+        String shortPost = "";
+        for (int i = 0; i < longPost.length(); i++) {
+            if (!"aeiouAEIOU".contains(longPost.substring(i, i + 1))) {
+                shortPost = shortPost + longPost.substring(i, i + 1);
             }
         }
-        return longPost;
+        return shortPost;
     }
 }
