@@ -15,7 +15,6 @@ public class WordTester
         System.out.println("Expected: false");
         System.out.println(hello.isVowel(4));
         System.out.println("Expected: true");
-
     }
 }
 
