@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/average/AverageDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/averageq/Average.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/averageq/AverageTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -29,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AverageDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/average/AverageDemo.java">
+      <file leaf-file-name="Average.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/averageq/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38958707">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.5421903">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -65,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/dayoftheweek/WeekDayCalculator.java" />
-        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/dayoftheweek/Day.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/Canvas.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/CheckerBoardPainter.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/checkerboard/CheckerBoardPainterTester.java" />
@@ -114,8 +113,10 @@
         <option value="$PROJECT_DIR$/src/lesson5dash2decisions/vowels/WordTester.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash1loops/dim/Dim.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/inputvalidation/InputValidation.java" />
-        <option value="$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/average/AverageDemo.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash2loops/averageq/AverageTester.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash2loops/averageq/Average.java" />
       </list>
     </option>
   </component>
@@ -234,6 +235,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="averageq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson6dash2loops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="average" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -270,17 +293,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\averageq" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\average" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\inputvalidation" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash1loops\dim" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash1loops\secretmessages" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash1loops\twitterbackwards" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AverageDemo">
+  <component name="RunManager" selected="Application.Average">
     <configuration default="false" name="WordTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -289,26 +312,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson5dash2decisions.vowels.WordTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TwitterizerTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson6dash1loops.twitterbackwards.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson6dash1loops.twitterbackwards.TwitterizerTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,6 +372,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson6dash2loops.average.AverageDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson6dash2loops.averageq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson6dash2loops.averageq.Average" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -551,18 +574,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Dim" />
       <item index="1" class="java.lang.String" itemvalue="Application.WordTester" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TwitterizerTester (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DecoderTester" />
-      <item index="4" class="java.lang.String" itemvalue="Application.InputValidation" />
-      <item index="5" class="java.lang.String" itemvalue="Application.AverageDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DecoderTester" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InputValidation" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AverageDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Average" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AverageDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.InputValidation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WordTester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DecoderTester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TwitterizerTester (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Average" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AverageDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.InputValidation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WordTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DecoderTester" />
       </list>
     </recent_temporary>
   </component>
@@ -576,12 +599,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00038" summary="add comments to generate class Java doc&#10;&#10;I have commented my code so that I generate Java documenation&#10;for my Car class.">
-      <created>1441072477385</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1441072477385</updated>
     </task>
     <task id="LOCAL-00039" summary="use the &quot;this&quot; reference in my constructor&#10;&#10;Used the &quot;this&quot; reference my instance variables name, x, and y.">
       <created>1441141830431</created>
@@ -871,7 +888,13 @@
       <option name="project" value="LOCAL" />
       <updated>1443662397409</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="get average, terminate by entering 0">
+      <created>1443665397788</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1443665397788</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -880,7 +903,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3035144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3025641" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33865815" sideWeight="0.5120385" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -916,7 +939,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="change encoding&#10;" />
     <MESSAGE value="work with book text" />
     <MESSAGE value="search for Mad Hatter" />
     <MESSAGE value="get the first sentence" />
@@ -941,7 +963,8 @@
     <MESSAGE value="update workspace" />
     <MESSAGE value="add WordTester class" />
     <MESSAGE value="input validation&#10;&#10;enter a number between 0 and 100 inclusively using a do loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="input validation&#10;&#10;enter a number between 0 and 100 inclusively using a do loop" />
+    <MESSAGE value="get average, terminate by entering 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="get average, terminate by entering 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -956,20 +979,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book5/aliceInWonderland.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.044386424">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="36" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17056856">
@@ -1292,14 +1301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15260324">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/inputvalidation/InputValidation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4578097">
@@ -1308,10 +1309,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/average/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4578097">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/average/AverageDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38958707">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/averageq/AverageTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21364452">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/averageq/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5421903">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding />
         </state>
       </provider>
