@@ -1,4 +1,5 @@
-package lesson6dash2loops.averageq;// Bluej project: lesson6/average_q
+package lesson6dash2loops.averageq;
+
 import java.util.Scanner;
 
 // Update your method average() so that it can accept
