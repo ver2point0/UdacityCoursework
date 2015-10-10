@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/throwingadie/ThrowingADie.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -32,17 +32,17 @@
         <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/dice/Die.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MonteCarlo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java">
+      <file leaf-file-name="ThrowingADie.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/throwingadie/ThrowingADie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6140036">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48833033">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -74,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book5/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book5/Book.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book6/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book6/Book.java" />
@@ -125,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/dice/DieTester.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/dice/Die.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java" />
+        <option value="$PROJECT_DIR$/src/lesson6dash2loops/throwingadie/ThrowingADie.java" />
       </list>
     </option>
   </component>
@@ -236,6 +236,28 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson6dash2loops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="throwingadie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -253,37 +275,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\throwingadie" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\darts" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\dice" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\telescope" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\trianglepattern" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson6dash2loops\clocktimes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MonteCarlo">
-    <configuration default="false" name="TrianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson6dash2loops.trianglepattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson6dash2loops.trianglepattern.TrianglePattern" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ThrowingADie">
     <configuration default="false" name="Center" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -352,6 +354,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson6dash2loops.darts.MonteCarlo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThrowingADie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson6dash2loops.throwingadie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson6dash2loops.throwingadie.ThrowingADie" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -533,19 +555,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Dim" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TrianglePattern" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Center" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DieCaster" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DieTester" />
-      <item index="5" class="java.lang.String" itemvalue="Application.MonteCarlo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Center" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DieCaster" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DieTester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MonteCarlo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ThrowingADie" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MonteCarlo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DieTester" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DieCaster" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Center" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TrianglePattern" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThrowingADie" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MonteCarlo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DieTester" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DieCaster" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Center" />
       </list>
     </recent_temporary>
   </component>
@@ -559,12 +581,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
-      <created>1441839999034</created>
-      <option name="number" value="00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1441839999034</updated>
     </task>
     <task id="LOCAL-00054" summary="Merge branch 'master' into lesson-4-fundamental-data-types&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
       <created>1441840033617</created>
@@ -854,7 +870,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444450188512</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="compute an estimate for pi">
+      <created>1444451202190</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1444451202190</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -869,7 +891,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30598292" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.48796147" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34017095" sideWeight="0.48796147" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26324236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -899,7 +921,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="change interest rate" />
     <MESSAGE value="count down" />
     <MESSAGE value="remove vowels, leave consonants" />
     <MESSAGE value="remove vowels, leave consonants refactor" />
@@ -924,7 +945,8 @@
     <MESSAGE value="make triangle pattern" />
     <MESSAGE value="make telescop effect" />
     <MESSAGE value="simulate a die" />
-    <option name="LAST_COMMIT_MESSAGE" value="simulate a die" />
+    <MESSAGE value="compute an estimate for pi" />
+    <option name="LAST_COMMIT_MESSAGE" value="compute an estimate for pi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -939,13 +961,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCardTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9818182">
@@ -1287,18 +1302,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/dice/Die.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.4524237">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/dice/Die.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6140036">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/throwingadie/ThrowingADie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48833033">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding />
         </state>
       </provider>
