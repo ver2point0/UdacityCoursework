@@ -27,7 +27,7 @@ public class Word
         {
             j--;
         }
-        text = s.substring(i, j);
+        text = s.substring(i, j + 1);
     }
 
     /**
@@ -72,6 +72,8 @@ public class Word
                     count++;
                     insideVowelGroup = true;
                 }
+            } else {
+                insideVowelGroup = false;
             }
         }
 
