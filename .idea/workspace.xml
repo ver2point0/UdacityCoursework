@@ -4,15 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="implement getFriends() method">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/degas1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/gaugin1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/monet1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/monet2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/renoir1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/Picture.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/books1/BookListDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -35,14 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ListOfPictures.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java">
+      <file leaf-file-name="BookListDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/books1/BookListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30520648">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding>
-                <element signature="e#242#251#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6947935">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson6dash1loops/creditcard/CreditCard.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash1loops/countingdown/CountingDown.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash1loops/twitter/Twitterizer.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash1loops/twitterbackwards/Twitterizer.java" />
@@ -129,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/friends2/Person.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/friends2/PersonTester.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java" />
+        <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/books1/BookListDemo.java" />
       </list>
     </option>
   </component>
@@ -189,9 +180,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,7 +236,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gallery3" />
+              <option name="myItemId" value="books1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,6 +256,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,37 +270,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\books1" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\gallery4" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\friends2" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\friends1" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\gallery3" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash1arrayslistsarrays\gallery2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListOfPictures (3)">
-    <configuration default="false" name="ListOfPictures (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson7dash1arrayslistsarrays.gallery2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson7dash1arrayslistsarrays.gallery2.ListOfPictures" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BookListDemo">
     <configuration default="false" name="ListOfPictures (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -378,6 +349,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson7dash1arrayslistsarrays.gallery4.ListOfPictures" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BookListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson7dash1arrayslistsarrays.books1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson7dash1arrayslistsarrays.books1.BookListDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -580,19 +571,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.Dim" />
       <item index="1" class="java.lang.String" itemvalue="Application.TrianglePattern" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ListOfPictures (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ListOfPictures (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PersonTester" />
-      <item index="5" class="java.lang.String" itemvalue="Application.PersonTester (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ListOfPictures (3)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ListOfPictures (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PersonTester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PersonTester (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ListOfPictures (3)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.BookListDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ListOfPictures (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PersonTester (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PersonTester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ListOfPictures (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ListOfPictures (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BookListDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ListOfPictures (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PersonTester (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PersonTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ListOfPictures (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -606,12 +597,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00066" summary="update master workspace">
-      <created>1442020231397</created>
-      <option name="number" value="00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1442020231397</updated>
     </task>
     <task id="LOCAL-00067" summary="map elevator floors">
       <created>1442113417837</created>
@@ -901,7 +886,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445815114874</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="rotate picture gallery">
+      <created>1445816469351</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1445816469351</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -971,7 +962,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="find the maximum number from a series of inputs" />
     <MESSAGE value="read the largest number from a file" />
     <MESSAGE value="read country names and populations from a file" />
     <MESSAGE value="count matches" />
@@ -996,7 +986,8 @@
     <MESSAGE value="refactor person class with ArrayLists" />
     <MESSAGE value="implement getFriends() method" />
     <MESSAGE value="implement getNumFriends() method&#10;(cherry picked from commit 57e6798)" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement getNumFriends() method&#10;(cherry picked from commit 57e6798)" />
+    <MESSAGE value="rotate picture gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotate picture gallery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1020,13 +1011,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/findfirstmatch/aliceInWonderland.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/inputvalidation/InputValidation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4578097">
@@ -1333,10 +1317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54937166">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1344,7 +1324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57271093">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1352,7 +1331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,10 +1338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1371,7 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48833033">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1379,17 +1352,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26929983">
           <caret line="11" column="114" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30520648">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
             <element signature="e#242#251#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/books1/BookListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6947935">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
