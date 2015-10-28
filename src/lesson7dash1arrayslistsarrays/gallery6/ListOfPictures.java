@@ -16,11 +16,18 @@ public class ListOfPictures
 
         // Your code here
         Picture tallest = gallery.get(0);
-        for (Picture pic : gallery) {
+        for (int i = 1; i < gallery.size(); i++) {
+            Picture pic = gallery.get(i);
             if (pic.getHeight() > tallest.getHeight()) {
                 tallest = pic;
             }
         }
+        // the enhanced for loop code works too, but it visits the first element
+//        for (Picture pic : gallery) {
+//            if (pic.getHeight() > tallest.getHeight()) {
+//                tallest = pic;
+//            }
+//        }
 
         System.out.println("Tallest height: "
                            + tallest.getHeight());
