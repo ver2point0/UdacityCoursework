@@ -1,4 +1,5 @@
-package lesson7dash1arrayslistsarrays.gallery8;// BlueJ project: lesson7/gallery8
+package lesson7dash1arrayslistsarrays.gallery8;
+// BlueJ project: lesson7/gallery8
 
 import java.util.ArrayList;
 
