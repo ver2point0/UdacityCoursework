@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/eiffel-tower.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Blocks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Picture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBookTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/grades.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -31,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Blocks.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Blocks.java">
+      <file leaf-file-name="GradeBook.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24416517">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.6961652">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -72,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson6dash2loops/dice/DieTester.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/dice/Die.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/darts/MonteCarlo.java" />
         <option value="$PROJECT_DIR$/src/lesson6dash2loops/throwingadie/ThrowingADie.java" />
@@ -123,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/lesson7dash2arrayslistsarrays/scores5/HomeworkScores.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/swaphalves/SwapHalves.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Blocks.java" />
+        <option value="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBookTester.java" />
       </list>
     </option>
   </component>
@@ -140,8 +139,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="y" value="29" />
+    <option name="x" value="685" />
+    <option name="y" value="30" />
     <option name="width" value="683" />
     <option name="height" value="768" />
   </component>
@@ -235,6 +234,28 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson7dash3arrayslistarrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradebook1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -252,11 +273,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash3arrayslistarrays\gradebook1" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash3arrayslistarrays\blocks" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash3arrayslistarrays\swaphalves" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash2arrayslistsarrays\scores5" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash2arrayslistsarrays\scores4" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson7dash2arrayslistsarrays\scores3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
@@ -579,12 +600,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00086" summary="input validation&#10;&#10;enter a number between 0 and 100 inclusively using a do loop">
-      <created>1443662397409</created>
-      <option name="number" value="00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1443662397409</updated>
-    </task>
     <task id="LOCAL-00087" summary="get average, terminate by entering 0">
       <created>1443665397788</created>
       <option name="number" value="00087" />
@@ -873,11 +888,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448470162631</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="locate neighboring elements">
+      <created>1448556080930</created>
+      <option name="number" value="00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1448556080931</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="29" width="683" height="768" extended-state="0" />
+    <frame x="685" y="30" width="683" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -887,11 +908,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33846155" sideWeight="0.5184591" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37372014" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37264958" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33557048" sideWeight="0.48154092" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12556732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.059001513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -943,7 +964,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="fix picture overlap" />
     <MESSAGE value="offset every picture with enhanced for loop" />
     <MESSAGE value="refactor person class with ArrayLists" />
     <MESSAGE value="implement getFriends() method" />
@@ -968,7 +988,8 @@
     <MESSAGE value="remove the lowest score from scores by adapting algorithms" />
     <MESSAGE value="find the lowest score position" />
     <MESSAGE value="swap two halves of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap two halves of an array" />
+    <MESSAGE value="locate neighboring elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="locate neighboring elements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -992,27 +1013,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery2/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery3/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/friends1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54937166">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/friends1/PersonTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57271093">
@@ -1359,6 +1359,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24416517">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/grades.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBookTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20950705">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6961652">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
           <folding />
         </state>
       </provider>
