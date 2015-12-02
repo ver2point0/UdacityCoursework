@@ -1,4 +1,5 @@
-package lesson7dash3arrayslistarrays.gradebook3;// BlueJ project: lesson7/gradebook3
+package lesson7dash3arrayslistarrays.gradebook3;
+// BlueJ project: lesson7/gradebook3
 
 import java.io.FileReader;
 import java.io.FileNotFoundException;
