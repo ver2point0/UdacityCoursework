@@ -1,4 +1,4 @@
-package lesson8moreaboutclasses;
+package lesson8moreaboutclasses.counting;
 // BlueJ project: lesson8/counting
 
 // Provide an instance variable for counting the passengers.

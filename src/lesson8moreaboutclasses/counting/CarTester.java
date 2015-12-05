@@ -1,4 +1,4 @@
-package lesson8moreaboutclasses;
+package lesson8moreaboutclasses.counting;
 
 public class CarTester
 {
