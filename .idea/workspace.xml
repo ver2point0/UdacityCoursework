@@ -4,9 +4,13 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/PersonTester.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="generate iDs in constructor">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/CarTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/CarTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Person.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -29,28 +33,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/Person.java">
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5673624">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.5483871">
+              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
               <folding>
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1175#1176#0" expanded="true" />
-                <element signature="e#1318#1319#0" expanded="true" />
-                <element signature="e#1355#1356#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/PersonTester.java">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarTester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/CarTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -87,9 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery5/Color.java" />
-        <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery5/ListOfPictures.java" />
-        <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery6/Color.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery7/Color.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery7/ListOfPictures.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery8/Color.java" />
@@ -138,6 +154,9 @@
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/turningMathToJava/MathInJava.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/PersonTester.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/Person.java" />
+        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Person.java" />
+        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Car.java" />
+        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Car.java" />
       </list>
     </option>
   </component>
@@ -249,6 +268,28 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson8moreaboutclasses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carshare2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -267,57 +308,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\carshare2" />
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\carshare1" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\friends" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\turningMathToJava" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\elevatorWithStaticMethods" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\properties" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\collecting2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTester">
-    <configuration default="false" name="HomeworkScoresTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson8moreaboutclasses.collecting2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.collecting2.HomeworkScoresTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CarTester (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson8moreaboutclasses.properties.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.properties.CarTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CarTester (1)">
     <configuration default="false" name="ElevatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -366,6 +367,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.friends.PersonTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson8moreaboutclasses.carshare1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.carshare1.CarTester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CarTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson8moreaboutclasses.carshare2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.carshare2.CarTester" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -589,19 +630,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Blocks" />
       <item index="1" class="java.lang.String" itemvalue="Application.Dim" />
       <item index="2" class="java.lang.String" itemvalue="Application.TrianglePattern" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HomeworkScoresTester" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CarTester (2)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ElevatorDemo" />
-      <item index="6" class="java.lang.String" itemvalue="Application.MathInJavaTester" />
-      <item index="7" class="java.lang.String" itemvalue="Application.PersonTester" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ElevatorDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MathInJavaTester" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PersonTester" />
+      <item index="6" class="java.lang.String" itemvalue="Application.CarTester" />
+      <item index="7" class="java.lang.String" itemvalue="Application.CarTester (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PersonTester" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MathInJavaTester" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ElevatorDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CarTester (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HomeworkScoresTester" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CarTester (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CarTester" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PersonTester" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MathInJavaTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ElevatorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -615,12 +656,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00098" summary="print digital clock times">
-      <created>1444275208625</created>
-      <option name="number" value="00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1444275208625</updated>
     </task>
     <task id="LOCAL-00099" summary="make triangle pattern">
       <created>1444276106355</created>
@@ -910,7 +945,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449604875235</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="generate iDs in constructor">
+      <created>1449717265121</created>
+      <option name="number" value="00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1449717265122</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TodoView">
@@ -934,7 +975,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36756757" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34228188" sideWeight="0.48154092" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34054053" sideWeight="0.48154092" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26484752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -964,7 +1005,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="find the the first match for portrait orientation" />
     <MESSAGE value="find all matches for portrait orientation" />
     <MESSAGE value="implement getFriends() with a separator" />
     <MESSAGE value="refactor to store an ArrayList of Person objects" />
@@ -989,7 +1029,8 @@
     <MESSAGE value="implement getters and setters appropriately" />
     <MESSAGE value="implement stattic method readBetween()" />
     <MESSAGE value="convert methods to static methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="convert methods to static methods" />
+    <MESSAGE value="generate iDs in constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate iDs in constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,7 +1045,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1013,48 +1054,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery5/ListOfPictures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3046595">
-          <caret line="10" column="114" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/friends7/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4129264">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery6/ListOfPictures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.006677796">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash2arrayslistsarrays/scores1/HomeworkScores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48294434">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash2arrayslistsarrays/scores1/HomeworkScoresDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12208258">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7dash2arrayslistsarrays/scores2/HomeworkScores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1200716">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson7dash2arrayslistsarrays/scores2/HomeworkScoresDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33512545">
@@ -1300,13 +1299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/collecting/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4848485">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/collecting2/HomeworkScores.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1325,6 +1317,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1332,6 +1325,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19507575">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1358,14 +1352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/PersonTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5673624">
@@ -1377,6 +1363,92 @@
             <element signature="e#1175#1176#0" expanded="true" />
             <element signature="e#1318#1319#0" expanded="true" />
             <element signature="e#1355#1356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/friends/PersonTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2580645">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/collecting/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857685">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+          <folding>
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare1/CarTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29032257">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/CarTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5483871">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
           </folding>
         </state>
       </provider>
