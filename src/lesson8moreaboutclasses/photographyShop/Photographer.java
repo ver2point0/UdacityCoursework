@@ -1,4 +1,4 @@
-package lesson8moreaboutclasses.photographyShop;// TO-DO
+package lesson8moreaboutclasses.photographyShop;
 // What methods do you want a photographer object to be
 // able to carry out?
 // This class currently has some logic for finding file names for
@@ -18,12 +18,21 @@ import java.io.FileNotFoundException;
 public class Photographer
 {
     private Map<String, String> photos;
+    private String name;
+    private Portfolio portfolio;
 
-    public Photographer()
+    public Photographer(String name, Portfolio portfolio)
     {
         photos = new HashMap(); // An important line. Must go in the constructor.
         readPhotos(); // A very important line. this must go in the Photographer
         // constructor so that the photographer will be able to take Pictures.
+        this.name = name;
+        this.portfolio = portfolio;
+    }
+
+    public void acceptAssignment(Assignment assignment) {
+        String photoFileName = takePicture(assignment.getDescription());
+        portfolio.addFinishedWork(photoFileName, name);
     }
 
     /**

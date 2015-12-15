@@ -3,7 +3,21 @@ package lesson8moreaboutclasses.photographyShop;// What should an Assignment do?
 // You can put any code related to the Assignment class you
 // want in here.
 
-public class Assignment
-{
+public class Assignment {
 
+    private String description;
+    private int priority;
+
+    public Assignment(int priority, String description) {
+        this.priority = priority;
+        this.description = description;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public int getPriority() {
+        return priority;
+    }
 }
