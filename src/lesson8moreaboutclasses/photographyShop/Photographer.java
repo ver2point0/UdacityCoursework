@@ -60,7 +60,7 @@ public class Photographer
         Pattern photoPattern = Pattern.compile("([a-zA-Z0-9\\.]+) (.*)");
         try
         {
-            Scanner in = new Scanner(new File("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson8moreaboutclasses\\photographyShop\\photos.txt"));
+            Scanner in = new Scanner(new File("photos.txt"));
 
             while (in.hasNextLine())
             {
