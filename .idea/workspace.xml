@@ -4,57 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/CarShareApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/Simulation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book2/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book2/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book3/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book4/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book5/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book6/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/BookTester.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/BookTester.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/LookUpAnyWord.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book1/LookUpAnyWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/LookUpAnyWord.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/book7/LookUpAnyWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson3classes/PersonDemo.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson3classes/PersonDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Blocks.java" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/blocks/Blocks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book2/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book3/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book3/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book4/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book5/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book5/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book6/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book6/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book7/BookTester.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book7/BookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/telescope/Center.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/telescope/Center.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash1loops/dim/Dim.java" afterPath="$PROJECT_DIR$/src/lesson6dash1loops/dim/Dim.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/FewerColors.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/fewercolors/FewerColors.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/findfirstmatch/FirstMatch.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/findfirstmatch/FirstMatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/firstmatchnolongwords/FirstMatch.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/firstmatchnolongwords/FirstMatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/positionoffirstmatch/FirstMatch.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/positionoffirstmatch/FirstMatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook4/GradeBook.java" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook4/GradeBook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBookTester.java" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook1/GradeBookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook2/GradeBookTester.java" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook2/GradeBookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook3/GradeBookTester.java" afterPath="$PROJECT_DIR$/src/lesson7dash3arrayslistarrays/gradebook3/GradeBookTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/GrayScale.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/grayscale/GrayScale.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/largesttwo/Largest2.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/largesttwo/Largest2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6dash2loops/largestcountries/LargestCountries.java" afterPath="$PROJECT_DIR$/src/lesson6dash2loops/largestcountries/LargestCountries.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery1/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery1/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery2/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery2/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery3/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery3/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery5/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery5/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery6/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery6/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery7/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery7/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery8/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery8/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery9/ListOfPictures.java" afterPath="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery9/ListOfPictures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book7/LookUpAnyWord.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book7/LookUpAnyWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson3classes/PersonDemo.java" afterPath="$PROJECT_DIR$/src/lesson3classes/PersonDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/sunset/Sunset.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/sunset/Sunset.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/sunsetinput/Sunset.java" afterPath="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/sunsetinput/Sunset.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="print in Simulation class">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fewercolors/FewerColors.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/fewercolors/FewerColors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/grayscale/GrayScale.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/grayscale/GrayScale.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunset/Sunset.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunset/Sunset.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -658,12 +611,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00107" summary="fix the program">
-      <created>1444621236147</created>
-      <option name="number" value="00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1444621236147</updated>
-    </task>
     <task id="LOCAL-00108" summary="update workspace">
       <created>1444701184767</created>
       <option name="number" value="00108" />
@@ -952,7 +899,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450286390567</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="print in Simulation class">
+      <created>1450377576570</created>
+      <option name="number" value="00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1450377576571</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TodoView">
@@ -975,7 +928,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.52118003" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34060404" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34060404" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32550335" sideWeight="0.47881997" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -992,6 +945,31 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30191693" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.52118003" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34060404" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32550335" sideWeight="0.47881997" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15279879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39765102" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24879615" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37248322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1006,7 +984,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="average the  scores from user input using arrays" />
     <MESSAGE value="remove the lowest score from scores by adapting algorithms" />
     <MESSAGE value="find the lowest score position" />
     <MESSAGE value="swap two halves of an array" />
@@ -1031,7 +1008,8 @@
     <MESSAGE value="photography story complete" />
     <MESSAGE value="remove file paths" />
     <MESSAGE value="place PrintStream in Simulation class" />
-    <option name="LAST_COMMIT_MESSAGE" value="place PrintStream in Simulation class" />
+    <MESSAGE value="print in Simulation class" />
+    <option name="LAST_COMMIT_MESSAGE" value="print in Simulation class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
