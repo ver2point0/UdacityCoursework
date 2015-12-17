@@ -8,11 +8,11 @@ public class ListOfPictures
     public static void main(String[] args)
     {
         ArrayList<Picture> gallery = new ArrayList<Picture>();
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery6\\degas1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery6\\guigou1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery6\\gaugin1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery6\\monet1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery6\\seurat1.jpg"));
+        gallery.add(new Picture("degas1.jpg"));
+        gallery.add(new Picture("guigou1.jpg"));
+        gallery.add(new Picture("gaugin1.jpg"));
+        gallery.add(new Picture("monet1.jpg"));
+        gallery.add(new Picture("seurat1.jpg"));
 
         // Your code here
         Picture tallest = gallery.get(0);

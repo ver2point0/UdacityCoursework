@@ -4,7 +4,7 @@ public class Blocks
 {
     public static void main(String[] args)
     {
-        Picture pic = new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash3arrayslistarrays\\blocks\\eiffel-tower.jpg");
+        Picture pic = new Picture("eiffel-tower.jpg");
         int[][] pixels = pic.getGrayLevels();
         for (int i = 0; i < pixels.length; i = i + 2)
         {

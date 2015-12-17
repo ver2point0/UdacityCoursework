@@ -12,7 +12,7 @@ public class FirstMatch
 {
     public static void main(String[] args) throws FileNotFoundException
     {
-        Scanner in = new Scanner(new FileReader("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson6dash2loops\\firstmatchnolongwords\\aliceInWonderland.txt"));
+        Scanner in = new Scanner(new FileReader("aliceInWonderland.txt"));
         String longWord = "";
         boolean found = false;
 

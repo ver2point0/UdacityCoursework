@@ -7,7 +7,7 @@ public class Sunset
     public static void main(String[] args)
     {
         Picture pic = new Picture();
-        pic.load("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson4fundamentaldatatypes\\sunsetinput\\queen-mary.png");
+        pic.load("sunsetinput\\queen-mary.png");
         Scanner addRedInput = new Scanner(System.in);
 
         System.out.print("Added redness: ");

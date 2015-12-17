@@ -8,11 +8,11 @@ public class ListOfPictures
     public static void main(String[] args)
     {
         ArrayList<Picture> gallery = new ArrayList<Picture>();
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery9\\degas1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery9\\monet1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery9\\monet2.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery9\\renoir1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery9\\seurat1.jpg"));
+        gallery.add(new Picture("degas1.jpg"));
+        gallery.add(new Picture("monet1.jpg"));
+        gallery.add(new Picture("monet2.jpg"));
+        gallery.add(new Picture("renoir1.jpg"));
+        gallery.add(new Picture("seurat1.jpg"));
 
         ArrayList<Picture> matches = new ArrayList<Picture>();
         for (Picture pic : gallery) {

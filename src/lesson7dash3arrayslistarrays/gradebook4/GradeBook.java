@@ -13,7 +13,7 @@ public class GradeBook
     private String[] topicNames;
     private int numTopics = 5;
     private double[][] grades;
-    private String fileName = "C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash3arrayslistarrays\\gradebook4\\grades.txt";
+    private String fileName = "grades.txt";
     
     public GradeBook() 
     {

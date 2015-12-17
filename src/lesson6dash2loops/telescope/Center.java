@@ -15,7 +15,7 @@ public class Center
     public static void main(String[] args)
     {
         Picture pic = new Picture();
-        pic.load("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson6dash2loops\\telescope\\queen-mary.png");
+        pic.load("queen-mary.png");
         pic.draw();
 
         double centerX = pic.getWidth() / 2;

@@ -9,11 +9,11 @@ public class ListOfPictures
     public static void main(String[] args)
     {
         ArrayList<Picture> gallery = new ArrayList<Picture>();
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery2\\degas1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery2\\gaugin1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery2\\monet1.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery2\\monet2.jpg"));
-        gallery.add(new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson7dash1arrayslistsarrays\\gallery2\\renoir1.jpg"));
+        gallery.add(new Picture("degas1.jpg"));
+        gallery.add(new Picture("gaugin1.jpg"));
+        gallery.add(new Picture("monet1.jpg"));
+        gallery.add(new Picture("monet2.jpg"));
+        gallery.add(new Picture("renoir1.jpg"));
 
         for(int i = 1; i < gallery.size(); i++)
         {

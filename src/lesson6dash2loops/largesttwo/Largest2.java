@@ -14,7 +14,7 @@ public class Largest2
     public static void main(String[] args)
     throws FileNotFoundException
     {
-        String file = "C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson6dash2loops\\largesttwo\\input.txt";
+        String file = "input.txt";
         File inputFile = new File(file);
         Scanner in = new Scanner(inputFile);
 

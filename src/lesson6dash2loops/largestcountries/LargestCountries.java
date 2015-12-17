@@ -8,7 +8,7 @@ public class LargestCountries
 {
     public static void main(String[] args) throws FileNotFoundException
     {
-        String filename = "C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson6dash2loops\\largestcountries\\population.txt";
+        String filename = "population.txt";
         File inputFile = new File(filename);
         Scanner in = new Scanner(inputFile);
 
