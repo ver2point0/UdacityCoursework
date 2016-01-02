@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/renoir1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/Canvas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/Color.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/Picture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Sunset.class" afterPath="$PROJECT_DIR$/out/production/UdacityCoursework/lesson4fundamentaldatatypes/sunsetinput/Sunset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java" afterPath="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -34,21 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PictureUtil.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PictureUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.77011496">
+              <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PictureManipulationDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PictureManipulationDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22580644">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -134,8 +129,8 @@
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare8/Car.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carshare8/CarShareApp.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/Canvas.java" />
-        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java" />
+        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java" />
       </list>
     </option>
   </component>
@@ -153,7 +148,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
+    <option name="x" value="684" />
     <option name="y" value="30" />
     <option name="width" value="683" />
     <option name="height" value="738" />
@@ -197,8 +192,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -274,6 +267,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -636,12 +631,6 @@
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
     </task>
-    <task id="LOCAL-00110" summary="fix picture overlap">
-      <created>1445408368227</created>
-      <option name="number" value="00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1445408368228</updated>
-    </task>
     <task id="LOCAL-00111" summary="offset every picture with enhanced for loop">
       <created>1445440851770</created>
       <option name="number" value="00111" />
@@ -930,7 +919,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450766999683</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="manipulate pictures WIP">
+      <created>1451427990054</created>
+      <option name="number" value="00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1451427990055</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TodoView">
@@ -943,7 +938,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="30" width="683" height="738" extended-state="0" />
+    <frame x="684" y="30" width="683" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -954,7 +949,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34060404" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32252252" sideWeight="0.47881997" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32252252" sideWeight="0.47881997" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34510434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1009,7 +1004,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="find the lowest score position" />
     <MESSAGE value="swap two halves of an array" />
     <MESSAGE value="locate neighboring elements" />
     <MESSAGE value="add new exercise" />
@@ -1034,7 +1028,8 @@
     <MESSAGE value="place PrintStream in Simulation class" />
     <MESSAGE value="print in Simulation class" />
     <MESSAGE value="add classes to packages, add import statements to classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add classes to packages, add import statements to classes" />
+    <MESSAGE value="manipulate pictures WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="manipulate pictures WIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1377,7 +1372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08963093">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1385,7 +1379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.093146">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1402,18 +1395,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureManipulationDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson8moreaboutclasses/hw8a/PictureUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22580644">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.77011496">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
           <folding />
         </state>
       </provider>
