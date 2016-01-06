@@ -5,7 +5,7 @@ public class PictureManipulationDemo
     public static void main(String[] args)
     {
         final int SPACER = 10;
-        Picture pic = new Picture("C:\\Users\\PtJ\\UdacityCoursework\\src\\lesson8moreaboutclasses\\hw8a\\renoir1.jpg");
+        Picture pic = new Picture("renoir1.jpg");
         pic.draw();
         Picture flipped = PictureUtil.grayAndFlipLeftToRight(pic);
         flipped.translate(pic.getWidth() + SPACER, 0);
