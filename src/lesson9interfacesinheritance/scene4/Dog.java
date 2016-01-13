@@ -1,10 +1,10 @@
 package lesson9interfacesinheritance.scene4;// BlueJ project: lesson9/scene4
 /*
-   TODO: Dogs should be moveable.
+   Dogs should be moveable.
    They move one pixel downwards every second.
 */
 
-public class Dog implements Drawable
+public class Dog implements Drawable, Moveable
 {
     private Picture pic;
     private Text name;
@@ -21,5 +21,11 @@ public class Dog implements Drawable
     {
         pic.draw();
         name.draw();
+    }
+
+    @Override
+    public void move(int seconds) {
+        pic.translate(0, seconds);
+        name.translate(0, seconds);
     }
 }

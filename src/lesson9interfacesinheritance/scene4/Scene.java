@@ -24,11 +24,11 @@ public class Scene
             d.draw();
         }
 
-        // TODO: Also move Fido
-
+        // Also move Fido
         for (int i = 1; i <= 10; i++)
         {
             car1.move(1);
+            dog1.move(1);
             Canvas.snapshot();
         }
     }
