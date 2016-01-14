@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Dog.java" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Scene.java" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Scene.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Fido.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Lucky.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Rex.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Drawable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Ellipse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/House.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Line.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Moveable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Picture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Scene.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Text.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -29,24 +44,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Dog.java">
+      <file leaf-file-name="Canvas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Canvas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41935483">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scene.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Scene.java">
+      <file leaf-file-name="Scene.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Scene.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="e#228#238#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.62808347">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/Simulation.java" />
-        <option value="$PROJECT_DIR$/src/lesson3classes/PersonDemo.java" />
         <option value="$PROJECT_DIR$/src/lesson8moreaboutclasses/carShare7/CarShareApp.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/BookTester.java" />
         <option value="$PROJECT_DIR$/src/lesson4fundamentaldatatypes/book1/LookUpAnyWord.java" />
@@ -133,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Shape.java" />
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Scene.java" />
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Dog.java" />
+        <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Scene.java" />
       </list>
     </option>
   </component>
@@ -194,6 +207,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,12 +239,51 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson9interfacesinheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scene5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson9interfacesinheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityCoursework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,37 +299,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\scene5" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\scene4" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\scene3" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\scene2" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\hw8c" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson8moreaboutclasses\hw8b" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Scene (2)">
-    <configuration default="false" name="WindowShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson8moreaboutclasses.hw8b.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson8moreaboutclasses.hw8b.WindowShapeTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Scene (3)">
     <configuration default="false" name="RandomWalkTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -345,6 +378,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson9interfacesinheritance.scene4.Scene" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scene (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson9interfacesinheritance.scene5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson9interfacesinheritance.scene5.Scene" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -568,19 +621,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Blocks" />
       <item index="1" class="java.lang.String" itemvalue="Application.Dim" />
       <item index="2" class="java.lang.String" itemvalue="Application.TrianglePattern" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WindowShapeTester" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RandomWalkTester" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Scene" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Scene (1)" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Scene (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RandomWalkTester" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Scene" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Scene (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Scene (2)" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Scene (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Scene (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Scene (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Scene" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RandomWalkTester" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WindowShapeTester" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Scene (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Scene (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Scene (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Scene" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RandomWalkTester" />
       </list>
     </recent_temporary>
   </component>
@@ -594,12 +647,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00117" summary="replace first book with sequel">
-      <created>1445872428662</created>
-      <option name="number" value="00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1445872428662</updated>
     </task>
     <task id="LOCAL-00118" summary="remove a book title from the ArrayList">
       <created>1445872654531</created>
@@ -889,7 +936,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452687111487</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="move Fido with Moveable interface">
+      <created>1452701071920</created>
+      <option name="number" value="00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1452701071920</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TodoView">
@@ -968,7 +1021,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="generate comments for students" />
     <MESSAGE value="count number of passengers" />
     <MESSAGE value="collecting values in a class" />
     <MESSAGE value="implement scores without collecting" />
@@ -993,7 +1045,8 @@
     <MESSAGE value="convert from Class to Interface" />
     <MESSAGE value="add a red ball using Drawable interface" />
     <MESSAGE value="scene4 WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="scene4 WIP" />
+    <MESSAGE value="move Fido with Moveable interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="move Fido with Moveable interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1017,20 +1070,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/findfirstmatch/FirstMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52014655">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6dash2loops/firstmatchnolongwords/FirstMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6042296">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$JAVA_HOME$/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3323263">
@@ -1355,7 +1394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.37310606">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,8 +1409,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41935483">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene5/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62808347">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
