@@ -4,10 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/ChoiceQuestion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/Question.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/QuestionDemo.java" />
+    <list default="true" id="8fe8b92c-a5b4-4ac1-b9af-0436de83d3e7" name="Default" comment="implement numeric question">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/NumericQuestion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/QuestionDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="UdacityCoursework.iws" />
@@ -30,31 +30,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChoiceQuestion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/ChoiceQuestion.java">
+      <file leaf-file-name="NumericQuestion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/NumericQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding>
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/Question.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/Question.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding>
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="QuestionDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/QuestionDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/QuestionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48295453">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.3548387">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -91,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson6dash2loops/telescope/Center.java" />
-        <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery1/ListOfPictures.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery2/ListOfPictures.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery3/ListOfPictures.java" />
         <option value="$PROJECT_DIR$/src/lesson7dash1arrayslistsarrays/gallery4/ListOfPictures.java" />
@@ -142,6 +152,8 @@
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz4/ChoiceQuestion.java" />
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/ChoiceQuestion.java" />
         <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/QuestionDemo.java" />
+        <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/NumericQuestion.java" />
+        <option value="$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/QuestionDemo.java" />
       </list>
     </option>
   </component>
@@ -203,7 +215,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,7 +269,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="quiz5" />
+              <option name="myItemId" value="quiz6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,8 +289,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,37 +307,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz6" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz5" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz4" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz3" />
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz2" />
-      <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson9interfacesinheritance\quiz1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PtJ\UdacityCoursework\src\lesson2objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuestionDemo (2)">
-    <configuration default="false" name="CountryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson9interfacesinheritance.compareTo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson9interfacesinheritance.compareTo1.CountryTester" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="UdacityCoursework" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.QuestionDemo (3)">
     <configuration default="false" name="QuestionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -394,6 +386,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson9interfacesinheritance.quiz4.QuestionDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UdacityCoursework" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuestionDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson9interfacesinheritance.quiz6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson9interfacesinheritance.quiz6.QuestionDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -617,19 +629,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Blocks" />
       <item index="1" class="java.lang.String" itemvalue="Application.Dim" />
       <item index="2" class="java.lang.String" itemvalue="Application.TrianglePattern" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CountryTester" />
-      <item index="4" class="java.lang.String" itemvalue="Application.QuestionDemo" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ChoiceQuestionTester" />
-      <item index="6" class="java.lang.String" itemvalue="Application.QuestionDemo (1)" />
-      <item index="7" class="java.lang.String" itemvalue="Application.QuestionDemo (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.QuestionDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ChoiceQuestionTester" />
+      <item index="5" class="java.lang.String" itemvalue="Application.QuestionDemo (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.QuestionDemo (2)" />
+      <item index="7" class="java.lang.String" itemvalue="Application.QuestionDemo (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QuestionDemo (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.QuestionDemo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ChoiceQuestionTester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.QuestionDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CountryTester" />
+        <item index="0" class="java.lang.String" itemvalue="Application.QuestionDemo (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QuestionDemo (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.QuestionDemo (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ChoiceQuestionTester" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QuestionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -643,12 +655,6 @@
       <created>1439943282913</created>
       <option name="number" value="Default" />
       <updated>1439943282913</updated>
-    </task>
-    <task id="LOCAL-00130" summary="sum the  scores from user input using arrays">
-      <created>1447870528067</created>
-      <option name="number" value="00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1447870528068</updated>
     </task>
     <task id="LOCAL-00131" summary="average the  scores from user input using arrays">
       <created>1447950598336</created>
@@ -938,10 +944,16 @@
       <option name="project" value="LOCAL" />
       <updated>1453841647833</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="setup two types of questions">
+      <created>1453963057507</created>
+      <option name="number" value="00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1453963057508</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -955,28 +967,28 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792792" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30033556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.52118003" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38129497" sideWeight="0.48789713" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3243243" sideWeight="0.47881997" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31621188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39765102" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24879615" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37248322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30033556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32550335" sideWeight="0.47881997" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39765102" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37248322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1017,8 +1029,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="photography story WIP" />
-    <MESSAGE value="photography story complete" />
     <MESSAGE value="remove file paths" />
     <MESSAGE value="place PrintStream in Simulation class" />
     <MESSAGE value="print in Simulation class" />
@@ -1042,7 +1052,9 @@
     <MESSAGE value="implement subclass methods" />
     <MESSAGE value="implement addChoice method" />
     <MESSAGE value="display the question text" />
-    <option name="LAST_COMMIT_MESSAGE" value="display the question text" />
+    <MESSAGE value="setup two types of questions" />
+    <MESSAGE value="implement numeric question" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement numeric question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1066,27 +1078,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene3/Ball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene3/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene3/Scene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57954544">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/scene4/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1329,16 +1320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="e#469#470#0" expanded="false" />
-            <element signature="e#504#505#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#927#928#0" expanded="false" />
-            <element signature="e#973#974#0" expanded="false" />
-            <element signature="e#1052#1053#0" expanded="false" />
-            <element signature="e#1092#1093#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1346,7 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44592032">
           <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1389,7 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0626186">
           <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1413,17 +1392,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7405303">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/ChoiceQuestion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -1438,8 +1413,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz5/QuestionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48295453">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/NumericQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson9interfacesinheritance/quiz6/QuestionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3548387">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
